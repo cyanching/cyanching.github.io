@@ -31,9 +31,11 @@ Member of [l’école doctorale Complexité du Vivant](https://www.sorbonne-univ
 Research experience
 ------
 * 2021 - 2024: PhD project
-  * 
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * [The Physical Chemistry Curie Lab](https://institut-curie.org/unit/umr168) (UMR168), [Institut Curie](https://institut-curie.org/)
+  * Project focused on the development of automatised image processing workflows for resolving high-resolution small membrane protein (< 150 kDa) molecular structures by means of in vitro reconstitution and cryo-electron tomography.
+  * Hosted by the [Molecular Microscopy of Membranes](https://institut-curie.org/team/levy) team
+  * Supervisors: [Dr. Daniel Lévy](https://institut-curie.org/personne/daniel-levy) & [Dr. Manuela Dezi](https://institut-curie.org/personne/manuela-dezi)
+  * Thesis committee members: [Prof. Simon Anders](https://www.zmbh.uni-heidelberg.de/Anders/), [Dr. Mickael Cohen](http://www.ibpc.fr/en/members-829.htm), & [Dr. Slavica Jonic](https://scai.sorbonne-universite.fr/public/profiles/view/2c3baf02ede0fc8c6be1/67)
 
 * Fall 2015: Research Assistant
   * Github University
