@@ -6,7 +6,7 @@ dynamics simulation and interaction
 fingerprint analysis of ligand trajectories"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-09-25
 venue: 'The Journal of Chemical Physics'
 paperurl: 'https://pubs.aip.org/aip/jcp/article-abstract/153/12/125102/1062851/A-workflow-for-exploring-ligand-dissociation-from?redirectedFrom=fulltext'
