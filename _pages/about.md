@@ -11,14 +11,14 @@ redirect_from:
 I am generally interested in scientific research, while my career thus far focused in the field of computational biology/biochemistry, I am also eager to apply my skill set for problem solving within other natural sciences. My life-long secular pilgrimage is to pursue the nature of physical reality via unceasing study of spacetime, matter, energy, and their constituents.
 
 Currently
-======
+------
 
 2021-2024
 
 I am a PhD student at the Physical Chemistry Curie Lab (2021-2024), an interdiscipinary research unit of the Curie Institute that uses physics to understand living matter. While my team specialises in molecular microscopy of membranes by means of in vitro reconstitution and cryo-electron microscopy, my project (see poster 'A workflow for automatic sampling of membrane proteins in subtomogram averaging' via link) is focused on the development of image processing workflows for resolving membrane protein structures by cryo-electron tomography.
 
 Previously
-======
+------
 
 2018-2021
 
