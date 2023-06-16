@@ -15,18 +15,18 @@ Currently
 
 2021-2024
 
-I am a PhD student at the Physical Chemistry Curie Lab (2021-2024), an interdiscipinary research unit of the Curie Institute that uses physics to understand living matter. While my team specialises in molecular microscopy of membranes by means of in vitro reconstitution and cryo-electron microscopy, my project (see poster 'A workflow for automatic sampling of membrane proteins in subtomogram averaging' via link) is focused on the development of image processing workflows for resolving membrane protein structures by cryo-electron tomography.
+I am a PhD student at the [Physical Chemistry Curie Lab](https://institut-curie.org/unit/umr168) (2021-2024), an interdiscipinary research unit of [Institut Curie](https://curie.fr/) that uses physics to understand living matter. While [my team](https://institut-curie.org/team/levy) specialises in molecular microscopy of membranes by means of in vitro reconstitution and cryo-electron microscopy, [my project](https://www.pks.mpg.de/cmbp23/poster-contributions) (see poster 'A workflow for automatic sampling of membrane proteins in subtomogram averaging' via link) is focused on the development of image processing workflows for resolving membrane protein structures by cryo-electron tomography.
 
 Previously
 ------
 
 2018-2021
 
-Before I started my PhD, I was a master student at Heidelberg University, where I focused my coursework in bioinformatics and computational biology. Through research internships, I gained experience in the fields of microfluidics (synthetic biology), proteomics (cancer biology), single-cell RNA sequencing (evolution), molecular dynamics (biochemical physics), and image processing for cryo-electron tomography (virology).
+Before I started my PhD, I was a master student at [Heidelberg University](https://www.uni-heidelberg.de/en), where I focused my coursework in bioinformatics and computational biology. Through research internships, I gained experience in the fields of microfluidics (synthetic biology), proteomics (cancer biology), single-cell RNA sequencing (evolution), molecular dynamics (biochemical physics), and image processing for cryo-electron tomography (virology).
 
 2015-2018
 
-I completed my bachelor study at University College Utrecht, an honours college of Utrecht University, where I focused on the following subjects ranked by course weight from high to low: cognitive neuroscience, chemistry, molecular cell biology, & medicine (gained pre-med qualification). Topics of my research internships in brief: therapeutic nanoparticles, development and cancer modelling in organoids.
+I completed my bachelor study at [University College Utrecht](https://www.uu.nl/en/organisation/university-college-utrecht), an honours college of [Utrecht University](https://www.uu.nl/en), where I focused on the following subjects ranked by course weight from high to low: cognitive neuroscience, chemistry, molecular cell biology, & medicine (gained pre-med qualification). Topics of my research internships in brief: therapeutic nanoparticles, development and cancer modelling in organoids.
 
 Future
 ------
