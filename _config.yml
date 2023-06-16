@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cyan Ching"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Cyan Ching"
 description              : &description "PhD student"
