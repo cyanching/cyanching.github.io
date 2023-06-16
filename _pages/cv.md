@@ -1,6 +1,6 @@
 ---
 layout: archive
-#title: "CV"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,13 +10,22 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+------
+* BSc with distinction: cum laude, awarded by [University College Utrecht](https://www.uu.nl/en/organisation/university-college-utrecht), the honours college of [Utrecht University](https://www.uu.nl/en) in 2018.
 
-Work experience
-======
+Completed Cognitive Neuroscience (1), Chemistry (2), Molecular Cell Biology (2), and Medicine (3) tracks (number indicates course weight rank). Gained the 'Pre-Med' qualification recognised by research medical doctor master programmes in the Netherlands.
+
+* MSc with distinction: cum laude, awarded by the [Molecular Biosciences](https://www.uni-heidelberg.de/en/study/all-subjects/molecular-biosciences/molecular-biosciences-master) programme at [Heidelberg University](https://www.uni-heidelberg.de/en) in 2021.
+
+Focused in Bioinformatics and Computational Biology.
+
+* PhD degree to be awarded by [PSL Research University](https://psl.eu/en), expected in 2024.
+
+Project focused on the development of image-processing workflows for resolving membrane protein molecular structures from cryo-electron tomography data.
+
+
+Research experience
+------
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -26,34 +35,3 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
