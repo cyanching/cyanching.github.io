@@ -13,7 +13,7 @@ Education
 ------
 * BSc with distinction: cum laude, awarded by [University College Utrecht](https://www.uu.nl/en/organisation/university-college-utrecht), the honours college of [Utrecht University](https://www.uu.nl/en) in 2018.
 
-Completed Cognitive Neuroscience (1), Chemistry (2), Molecular Cell Biology (2), and Medicine (3) tracks (number indicates course weight rank). Gained the 'Pre-Med' qualification recognised by research medical doctor master programmes in the Netherlands.
+Completed Cognitive Neuroscience (1), Chemistry (2), Molecular Cell Biology (2), and Medicine (3) tracks (number indicates course weight rank). Gained the '[Pre-Med](https://students.uu.nl/en/university-college-utrecht/academics/science/medical-science)' qualification recognised by research medical doctor master programmes in the Netherlands.
 
 * MSc with distinction: cum laude, awarded by the [Molecular Biosciences](https://www.uni-heidelberg.de/en/study/all-subjects/molecular-biosciences/molecular-biosciences-master) programme at [Heidelberg University](https://www.uni-heidelberg.de/en) in 2021.
 
