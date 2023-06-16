@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Master student supervison"
 collection: teaching
-type: "Undergraduate course"
+type: "Master year 1 internship"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "the Physical Chemistry Curie Lab, Institut Curie"
+date: 2022-04-01
+location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Assisted supervision of the following master year 1 students from the [Master Biologie Moléculaire et Cellulaire](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-biologie-moleculaire-et-cellulaire-bmc) programme at Sorbonne University in membrane protein purification: Kailun Liu & Hugo Bost. Both students spent 2 months working in our team.
