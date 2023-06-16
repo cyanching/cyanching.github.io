@@ -18,4 +18,4 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S0092867423002763'
 citation: 'Zhang, X., Sridharan, S., Zagoriy, I., Eugster Oegema, C., Ching, C., Pflaesterer, T., Fung, H. K. H., Becher, I., Poser, I., Müller, C. W., Hyman, A. A., Savitski, M. M., & Mahamid, J. (2023). Molecular mechanisms of stress-induced reactivation in mumps virus condensates. Cell, 186(9), 1877-1894.e27.'
 ---
 
-[Download paper here](http://cyanching.github.io/files/Paper_2.pdf)
+
