@@ -21,7 +21,11 @@ Focused in Bioinformatics and Computational Biology.
 
 * PhD degree to be awarded by [PSL Research University](https://psl.eu/en), expected in 2024.
 
-Funded by the [EuReCa international PhD programme](https://training.institut-curie.org/eureca) supported by the [European Union’s Horizon 2020 research and innovation](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en) programme, [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/) fellow. Project focused on the development of image-processing workflows for resolving membrane protein molecular structures from cryo-electron tomography data.
+Project focused on the development of image-processing workflows for resolving membrane protein molecular structures from cryo-electron tomography data.
+
+Funded by the [EuReCa international PhD programme](https://training.institut-curie.org/eureca) supported by the [European Union’s Horizon 2020 research and innovation](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en) programme, [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/) fellow. 
+
+Member of [l’école doctorale Complexité du Vivant](https://www.sorbonne-universite.fr/ecoles-doctorales/complexite-du-vivant), [Sorbonne University](https://www.sorbonne-universite.fr/en).
 
 
 Research experience
