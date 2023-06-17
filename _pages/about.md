@@ -35,6 +35,11 @@ Future
 
 I intend to pursue a postdoctoral position in fundamental scientific research after my PhD graduation. Research fields that appeal to me the most for my next step are structural studies, chemical physics, material sciences, and systems biology. I am most interested in continuing in image processing for cryo-electron microscopy/tomography. Although I am also happy to take up alternative computer vision, molecular dynamics, and/or omics based projects. I am not actively seeking industrial positions, but I would be glad to be a part of promising academic startups and companies that make positive environmental impacts.
 
+Hobbies
+------
+
+As a child, I practised gymnastics, learnt to play the piano, and won awards in art and creative writing competitions. I also published a short poem and obtained an official line art skill qualification. As a teen, my interests completely shifted to sciences. Instead, I won awards in Olympiad maths, innovative physics, and academic debate competitions. Nowadays, since my work is my major hobby, I am taking it easy. I enjoy going around on my goofy kickscooter, taking care of my pet lizard and his food (live crickets and mealworms), struggling to play the majestic [otamatone](https://www.youtube.com/watch?v=_I7nCZVky40) well (hopefully one day), doing amateur photography when I travel and/or hike, going urban exploring and bouldering with friends. 
+
 Contact
 ------
 
