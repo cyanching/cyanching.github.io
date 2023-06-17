@@ -1,6 +1,6 @@
 ---
 title: "Liberal Academics Society"
-excerpt: "Founder & chair, a platform for university students to share their knowledge, ideas, and skills to peers and beyond."
+excerpt: "Founder & chair, a platform for university students to share their knowledge, ideas, and skills to peers and beyond. Click to learn more."
 collection: portfolio
 ---
 
