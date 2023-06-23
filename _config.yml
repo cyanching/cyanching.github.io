@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.21.0"
+#remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 
 #theme                  : "minimal-mistakes-jekyll"
 #remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    :  "neon" #"air" #, "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#minimal_mistakes_skin    :  "neon" #"air" #, "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
