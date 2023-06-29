@@ -26,7 +26,7 @@ Before I started my PhD, I was a master student at [Heidelberg University](https
 
 2015-2018
 
-I completed my bachelor study at [University College Utrecht](https://www.uu.nl/en/organisation/university-college-utrecht), an honours college of [Utrecht University](https://www.uu.nl/en), where I focused on the following subjects ranked by course weight from high to low: cognitive neuroscience, chemistry, molecular cell biology, & medicine (gained pre-med qualification). Topics of my research internships in brief: therapeutic nanoparticles, development and cancer modelling in organoids.
+I completed my bachelor study at [University College Utrecht](https://www.uu.nl/en/organisation/university-college-utrecht), an honours college of [Utrecht University](https://www.uu.nl/en), where I focused on the following subjects (tracks) ranked by course weight from high to low: cognitive neuroscience, chemistry, molecular cell biology, & medicine (gained pre-med qualification). Some topics of my track-finishing projects: spatial perception, brain imaging with fMRI/MRI, drug design, and plant molecular biology. Topics of my research internships: therapeutic nanoparticles, development and cancer modelling in organoids.
 
 Future
 ------
