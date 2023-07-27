@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ------
-* BSc with distinction: cum laude, awarded by [University College Utrecht](https://www.uu.nl/en/organisation/university-college-utrecht), the honours college of [Utrecht University](https://www.uu.nl/en) in 2018.
+* BSc with distinction: cum laude, awarded by [University College Utrecht](https://www.uu.nl/en/organisation/university-college-utrecht), an honours college of [Utrecht University](https://www.uu.nl/en) in 2018.
 
 Completed Cognitive Neuroscience (1), Chemistry (2), Molecular Cell Biology (2), and Medicine (3) tracks (number indicates course weight rank). Gained the '[Pre-Med](https://students.uu.nl/en/university-college-utrecht/academics/science/medical-science)' qualification recognised by research medical doctor master programmes in the Netherlands.
 
