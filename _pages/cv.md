@@ -49,7 +49,7 @@ Research experience
  
 * 01 - 02 2020: Internship
   * [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/)
-  * Evaluation and benchmarking of the novel drug-target residence time (τ) estimating molecular dynamics sampling computational method: τ-random acceleration molecular dynamics (τRAMD), used for the ranking of drug candidates according to their τ and gaining insights into ligand-target dissociation mechanisms.
+  * Evaluation, improvement and benchmarking of the novel drug-target residence time (τ) estimating molecular dynamics sampling computational method: τ-random acceleration molecular dynamics (τRAMD), used for the ranking of drug candidates according to their τ and gaining insights into ligand-target dissociation mechanisms.
   * Hosted by the [Molecular and Cellular Modelling](https://www.h-its.org/research/mcm/) group led by Prof. Rebecca Wade
   * Supervised by Dr. Daria Kokh
   * Publication: [A workflow for exploring ligand dissociation from a macromolecule: Efficient random acceleration molecular dynamics simulation and interaction fingerprint analysis of ligand trajectories](https://pubs.aip.org/aip/jcp/article-abstract/153/12/125102/1062851/A-workflow-for-exploring-ligand-dissociation-from?redirectedFrom=fulltext).
@@ -71,7 +71,7 @@ Research experience
 
 * 02 - 03 2019: Internship
   * [Max Planck Institute for Medical Research](https://www.mr.mpg.de/en)
-  * Giant unilamellar vesicle-based microfluidics fabrication of uniform human neural co-culture spheroids for high-throughput microplastic neurotoxicity screening, original and independent research project.
+  * Giant unilamellar vesicle-based microfluidics fabrication of uniform human neural co-culture spheroids for high-throughput microplastic neurotoxicity screening, original and independent research project. 
   * Hosted by the [Department of Cellular Biophysics](https://www.mr.mpg.de/13943505/cellular_biophysics) led by Prof. Joachim Spatz
   * Supervised by PhD candidate Oskar Staufer
 
