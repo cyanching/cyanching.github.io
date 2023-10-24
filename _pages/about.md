@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am generally interested in scientific research, while my career thus far focused in the field of computational biology/biochemistry, I am also eager to apply my skill set for problem solving within other natural sciences. My life-long secular pilgrimage is to pursue the nature of physical reality via unceasing study of spacetime, matter, energy, and their constituents.
+I am generally interested in scientific research, while my career thus far focused in the field of computational biology/biochemistry, I am also eager to apply my skill set for problem solving within other natural sciences. My life-long secular pilgrimage is to pursue the nature of physical reality via unceasing study of its fundamental aspects and constituents.
 
 Currently
 ------
