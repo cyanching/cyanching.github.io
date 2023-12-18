@@ -33,7 +33,7 @@ Future
 
 2024-?
 
-I intend to pursue a postdoctoral position in fundamental scientific research after my PhD graduation. Research fields that appeal to me the most for my next step are structural studies, chemical physics, material sciences, and systems biology. I am most interested in continuing in image processing for cryo-electron microscopy/tomography. Although I am also very happy to take up alternative computer vision, molecular dynamics, and/or omics based projects. I am not actively seeking industrial positions, but I would be glad to be a part of promising academic startups and companies that make positive environmental impacts.
+I intend to pursue a postdoctoral position and eventually a professorship in fundamental scientific research after my PhD graduation. I am interested in continuing in the field of cryo-electron microscopy/tomography. I am also keen on exploring alternative computational projects in protein sciences (e.g., protein structure, function, and interaction simulation/prediction, and protein design), abiogenesis, molecular paleontology/evolution, and image/signal processing (for applications in neuroscience, geoscience, astronomy and/or others). I am not actively seeking industrial positions, but I would be glad to be a part of promising academic startups and companies that make positive environmental impacts.
 
 Hobbies
 ------
