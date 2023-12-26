@@ -38,7 +38,7 @@ I intend to pursue a postdoctoral position and eventually a professorship in fun
 Hobbies
 ------
 
-As a child, I practised gymnastics, learnt to play the piano, and won awards in art and creative writing competitions. I published writing pieces and obtained an official line art skill qualification. As a teen, my interests completely shifted to sciences. Instead, I won awards in Olympiad maths, innovative physics, and academic debate competitions. 
+As a child, I practised gymnastics, learnt to play the piano, won awards in art and creative writing competitions. I also published writing pieces and obtained an official line art skill qualification. As a teen, my interests completely shifted to sciences. Instead, I won awards in Olympiad maths, innovative physics, and academic debate competitions. 
 
 Nowadays, since my work happens to be my major hobby, I am taking it easy. I enjoy going around on my goofy kickscooter, taking care of my pet lizard and his live food, struggling to play the majestic [otamatone](https://www.youtube.com/watch?v=_I7nCZVky40) well (one day), doing [amateur landscape photography](https://www.instagram.com/cyansingjikching/?hl=en) when I travel and/or hike, going urban exploring, bouldering, and playing [DnD or games alike](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons) with friends, I dungeon master. 
 
