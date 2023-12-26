@@ -21,7 +21,7 @@ Focused in Bioinformatics and Computational Biology.
 
 * PhD degree to be awarded by [PSL Research University](https://psl.eu/en), expected in 2024.
 
-Project focused on the development of image-processing workflows for resolving membrane protein molecular structures from cryo-electron tomography data.
+Project focused on the development and application of image-processing workflows for resolving membrane protein molecular structures from cryo-electron tomography data.
 
 Funded by the [EuReCa international PhD programme](https://training.institut-curie.org/eureca) supported by the [European Union’s Horizon 2020 research and innovation](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en) programme, [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/) fellow. 
 
