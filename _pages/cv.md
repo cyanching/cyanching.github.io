@@ -30,7 +30,7 @@ Member of [l’école doctorale Complexité du Vivant](https://www.sorbonne-univ
 
 Research experience
 ------
-* 2021 - 2024: PhD project
+* 09 2021 - 03 2025: PhD project
   * The [Physical Chemistry Curie Lab](https://institut-curie.org/unit/umr168) (UMR168), [Institut Curie](https://institut-curie.org/)
   * The development and application of image-processing workflows for characterising membrane morphologies and resolving membrane protein molecular structures from cryo-electron tomography data.
   * Hosted by the [Molecular Microscopy of Membranes](https://institut-curie.org/team/levy) team led by Dr. Daniel Lévy
