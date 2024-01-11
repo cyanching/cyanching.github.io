@@ -13,9 +13,9 @@ I am generally interested in scientific research, while my career thus far focus
 Currently
 ------
 
-2021-2024
+2021-2025
 
-I am a PhD student at the [Physical Chemistry Curie Lab](https://institut-curie.org/unit/umr168) (2021-2024), an interdiscipinary research unit of [Institut Curie](https://curie.fr/) that uses physics to understand living matter. While [my team](https://institut-curie.org/team/levy) specialises in molecular microscopy of membranes by means of in vitro reconstitution and cryo-electron microscopy, [my project](https://docdro.id/9xqujhv) is focused on the development and application of image processing workflows for characterising membrane morphologies and resolving membrane protein structures from cryo-electron tomography data. 
+I am a PhD student at the [Physical Chemistry Curie Lab](https://institut-curie.org/unit/umr168), an interdiscipinary research unit of [Institut Curie](https://curie.fr/) that uses physics to understand living matter. While [my team](https://institut-curie.org/team/levy) specialises in molecular microscopy of membranes by means of in vitro reconstitution and cryo-electron microscopy, [my project](https://docdro.id/9xqujhv) is focused on the development and application of image processing workflows for characterising membrane morphologies and resolving membrane protein structures from cryo-electron tomography data. 
 
 Previously
 ------
@@ -31,7 +31,7 @@ I completed my bachelor study at [University College Utrecht](https://www.uu.nl/
 Future
 ------
 
-2024-?
+2025-?
 
 I intend to pursue a postdoctoral position and eventually a professorship in fundamental scientific research after my PhD graduation. I am interested in continuing in the field of cryo-electron microscopy/tomography. I am also keen on exploring alternative computational projects in protein sciences (e.g., protein structure, function, and interaction simulation/prediction, and protein design), abiogenesis, molecular paleontology/evolution, and image/signal processing (for applications in neuroscience, geoscience, astronomy and/or others). I am not actively seeking industrial positions, but I would be glad to be a part of promising academic startups and companies that make positive environmental impacts.
 
