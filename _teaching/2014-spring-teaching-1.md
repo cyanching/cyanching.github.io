@@ -1,5 +1,5 @@
 ---
-title: "Master student supervison"
+title: "Master internship student supervison"
 collection: teaching
 type: "Master year 1 internship"
 permalink: /teaching/2014-spring-teaching-1
