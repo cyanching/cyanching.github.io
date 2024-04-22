@@ -15,7 +15,7 @@ Currently
 
 2021-2025
 
-I am a PhD student at the [Physical Chemistry Curie Lab](https://institut-curie.org/unit/umr168), an interdiscipinary research unit of [Institut Curie](https://curie.fr/) that uses physics to understand living matter. While [my team](https://institut-curie.org/team/levy) specialises in molecular microscopy of membranes by means of in vitro reconstitution and cryo-electron microscopy, [my project](https://docdro.id/9xqujhv) is focused on the development and application of image processing workflows for characterising membrane morphologies and resolving membrane protein structures from cryo-electron tomography data. 
+I am a PhD student at the [Physical Chemistry Curie Lab](https://institut-curie.org/unit/umr168), an interdiscipinary research unit of [Institut Curie](https://curie.fr/) that uses physics to understand living matter. While [my team](https://institut-curie.org/team/levy) specialises in molecular microscopy of membranes by means of in vitro reconstitution and cryo-electron microscopy, [my project](https://copper-antoinette-68.tiiny.site) is focused on the development and application of image processing workflows for characterising membrane morphologies and resolving membrane protein structures from cryo-electron tomography data. 
 
 Previously
 ------
