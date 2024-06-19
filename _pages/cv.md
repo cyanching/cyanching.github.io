@@ -39,7 +39,7 @@ Research experience
 
 
 * 03 2020 - 08 2021: Master thesis
-  * The [Structural and Computational Biology unit](https://www.embl.org/research/units/structural-and-computational-biology/), the [European Molecular Biology Laboratory Heidelberg](https://www.embl.org/sites/heidelberg/)
+  * The [Structural and Computational Biology unit](https://www.embl.org/research/units/structural-and-computational-biology/), the [European Molecular Biology Laboratory (EMBL) Heidelberg](https://www.embl.org/sites/heidelberg/)
   * The development of an image processing pipeline for resolving structures of the Mumps viral capsid in the cellular context by means of in situ cryo-electron tomography.
   * Hosted by the [Mahamid group](https://www.embl.org/groups/mahamid/) led by Dr. Julia Mahamid
   * Supervised by Dr. Xiaojie Zhang & Dr. Julia Mahamid
