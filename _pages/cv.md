@@ -19,7 +19,7 @@ Science major, completed Cognitive Neuroscience, Chemistry, Molecular Cell Biolo
 
 Focused in Bioinformatics and Computational Biology.
 
-* PhD degree in Bioinformatics and Systems Biology awarded by [PSL University](https://psl.eu/en), the 4th of June, 2025.
+* PhD degree in Bioinformatics and Systems Biology awarded by [PSL University](https://psl.eu/en), with the speciality in Informatics, the 4th of June, 2025.
 
 Project focused on the development and application of image-processing workflows for characterising membrane morphologies and resolving membrane protein molecular structures from cryo-electron tomography data.
 
