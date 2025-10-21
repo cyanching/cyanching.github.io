@@ -88,9 +88,9 @@ analytics:
 author:
   name             : "Cyan Ching"
   avatar           : "profile.jpeg"
-  bio              : "PhD graduate at the Physical Chemistry Curie Lab working in cryo-EM image processing."
-  location         : "Paris, France"
-  employer         : "Institut Curie"
+  bio              : "Postdoctoral researcher at the INRIA Centre Rennes working in microscopy image processing."
+  location         : "Rennes, France"
+  employer         : "INRIA Centre Rennes"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=zIZXttEAAAAJ&hl=en&oi=ao"
   email            : "xingyi.cheng@curie.fr"
