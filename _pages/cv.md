@@ -30,7 +30,7 @@ Member of [l’école doctorale Complexité du Vivant](https://www.sorbonne-univ
 
 Research experience
 ------
-* 09 2021 - 06 2025: PhD project
+* 09 2021 - 08 2025: PhD project
   * The [Physical Chemistry Curie Lab](https://institut-curie.org/unit/umr168) (UMR168), [Institut Curie](https://institut-curie.org/)
   * The development and application of image-processing workflows for characterising membrane morphologies and resolving membrane protein molecular structures from cryo-electron tomography data.
   * Thesis title: Automated Image Processing of Membranes and Membrane Proteins in Cryo-Electron Tomography
