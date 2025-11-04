@@ -30,6 +30,12 @@ Member of [l’école doctorale Complexité du Vivant](https://www.sorbonne-univ
 
 Research experience
 ------
+* 11 2025 - 10 2027: Postdoc
+  * [INRIA Centre Rennes](https://www.inria.fr/fr/centre-inria-universite-rennes), a site of Inria, the French National Institute for Computer Science and Applied Mathematics.
+  * Development of image processing methods for information cross-reference between light microscopy and cryo-electron tomography.
+  * Hosted by the [SERPICO](https://team.inria.fr/serpico/) (Space-timE RePresentation, Imaging and cellular dynamics of molecular COmplexes) team led by [Dr. Charles Kervrann](https://team.inria.fr/serpico/team-members/charles-kervrann-2/)
+    
+
 * 09 2021 - 08 2025: PhD project
   * The [Physical Chemistry Curie Lab](https://institut-curie.org/unit/umr168) (UMR168), [Institut Curie](https://institut-curie.org/)
   * The development and application of image-processing workflows for characterising membrane morphologies and resolving membrane protein molecular structures from cryo-electron tomography data.
