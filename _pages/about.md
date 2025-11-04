@@ -15,7 +15,7 @@ Currently
 
 2025-2027
 
-I am a starting Postdoctoral fellow at the [Inria Centre at Rennes University](https://www.inria.fr/en/inria-centre-rennes-university), a site of [Inria](https://www.inria.fr/en), the French National Institute for Computer Science and Applied Mathematics. Within the [SERPICO](https://team.inria.fr/serpico/) (Space-timE RePresentation, Imaging and cellular dynamics of molecular COmplexes
+I am a starting Postdoctoral fellow at the [INRIA Centre Rennes](https://www.inria.fr/en/inria-centre-rennes-university), a site of [Inria](https://www.inria.fr/en), the French National Institute for Computer Science and Applied Mathematics. Within the [SERPICO](https://team.inria.fr/serpico/) (Space-timE RePresentation, Imaging and cellular dynamics of molecular COmplexes
 ) team which develops mathematical and computational methods to study the spatiotemporal organisation and dynamics of molecular and cellular processes, my work focuses on developing image processing methods that bridge light microscopy and cryo-electron tomography.
 
 Previously
