@@ -50,6 +50,6 @@ Nowadays, since my work happens to be my major hobby, I am taking it easy. I enj
 Contact
 ------
 
-The Physical Chemistry Curie Lab, 11 Rue Pierre et Marie Curie, 75005 Paris
+INRIA Centre Rennes, Campus de Beaulieu, 263 Av. Général Leclerc, 35042 Rennes
 
-xingyi.cheng@curie.fr
+cyan.ching@inria.fr
