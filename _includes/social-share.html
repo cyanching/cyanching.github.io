@@ -1,5 +1,5 @@
 {% include base_path %}
-
+<!--
 <section class="page__share">
   {% if site.data.ui-text[site.locale].share_on_label %}
     <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "Share on" }}</h4>
@@ -11,3 +11,31 @@
 
   <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
+-->
+
+<section class="page__share">
+  {% if site.data.ui-text[site.locale].share_on_label %}
+    <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "Share" }}</h4>
+  {% endif %}
+  <button onclick="copyLink()" class="btn btn--copy" title="Copy link to clipboard">
+    <i class="fas fa-link"></i><span>Copy Link</span>
+  </button>
+</section>
+
+<script>
+  function copyLink() {
+    navigator.clipboard.writeText(window.location.href)
+      .then(() => {
+        // Optional: Show a tooltip or change button text temporarily
+        const btn = document.querySelector('.btn--copy');
+        btn.innerHTML = '<i class="fas fa-check"></i><span>Copied!</span>';
+        setTimeout(() => {
+          btn.innerHTML = '<i class="fas fa-link"></i><span>Copy Link</span>';
+        }, 2000);
+      })
+      .catch(err => {
+        console.error('Failed to copy: ', err);
+        alert('Failed to copy link. Please try again.');
+      });
+  }
+</script>
