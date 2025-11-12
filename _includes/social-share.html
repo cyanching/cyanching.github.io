@@ -29,7 +29,7 @@
 
     button.addEventListener("click", async () => {
       try {
-        await navigator.clipboard.writeText(window.location.origin + link);
+        await navigator.clipboard.writeText("{{ page.url | absolute_url }}");
         status.style.display = "inline";
         setTimeout(() => (status.style.display = "none"), 2000);
       } catch (err) {
