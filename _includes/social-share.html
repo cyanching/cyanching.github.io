@@ -20,22 +20,44 @@
   <button onclick="copyLink()" class="btn btn--copy" title="Copy link to clipboard">
     <i class="fas fa-link"></i><span>Copy Link</span>
   </button>
+  <input type="text" id="linkToCopy" value="{{ base_path }}{{ page.url }}" style="position: absolute; opacity: 0; pointer-events: none;" />
 </section>
 
 <script>
   function copyLink() {
-    navigator.clipboard.writeText(window.location.href)
-      .then(() => {
-        // Optional: Show a tooltip or change button text temporarily
-        const btn = document.querySelector('.btn--copy');
-        btn.innerHTML = '<i class="fas fa-check"></i><span>Copied!</span>';
-        setTimeout(() => {
-          btn.innerHTML = '<i class="fas fa-link"></i><span>Copy Link</span>';
-        }, 2000);
-      })
-      .catch(err => {
-        console.error('Failed to copy: ', err);
-        alert('Failed to copy link. Please try again.');
-      });
+    const link = "{{ base_path }}{{ page.url }}";
+    const fallbackInput = document.getElementById('linkToCopy');
+
+    // Try modern Clipboard API
+    if (navigator.clipboard) {
+      navigator.clipboard.writeText(link)
+        .then(() => {
+          const btn = document.querySelector('.btn--copy');
+          btn.innerHTML = '<i class="fas fa-check"></i><span>Copied!</span>';
+          setTimeout(() => {
+            btn.innerHTML = '<i class="fas fa-link"></i><span>Copy Link</span>';
+          }, 2000);
+        })
+        .catch(err => {
+          console.error('Clipboard API failed:', err);
+          fallbackCopy(fallbackInput, link);
+        });
+    } else {
+      // Fallback for older browsers
+      fallbackCopy(fallbackInput, link);
+    }
+  }
+
+  function fallbackCopy(input, text) {
+    input.value = text;
+    input.select();
+    input.setSelectionRange(0, 99999); // For mobile
+    document.execCommand('copy');
+    const btn = document.querySelector('.btn--copy');
+    btn.innerHTML = '<i class="fas fa-check"></i><span>Copied!</span>';
+    setTimeout(() => {
+      btn.innerHTML = '<i class="fas fa-link"></i><span>Copy Link</span>';
+    }, 2000);
   }
 </script>
+
