@@ -153,6 +153,7 @@ exclude:
   - tmp
   - vendor
   - _pages/sitemap.md
+  - _includes/footer.html
 keep_files:
   - .git
   - .svn
