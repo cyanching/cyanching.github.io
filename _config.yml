@@ -154,6 +154,7 @@ exclude:
   - vendor
   - _pages/sitemap.md
   - _includes/footer.html
+  - _includes/footer/custom.html
 keep_files:
   - .git
   - .svn
