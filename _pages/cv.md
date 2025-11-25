@@ -33,7 +33,7 @@ Research experience
 * 11 2025 - 10 2027: Postdoc
   * [INRIA Centre Rennes](https://www.inria.fr/fr/centre-inria-universite-rennes), a site of [Inria](https://www.inria.fr/fr), the French National Institute for Computer Science and Applied Mathematics.
   * Development of image processing methods for information cross-reference between light microscopy and cryo-electron tomography.
-  * Hosted by the [SERPICO](https://team.inria.fr/serpico/) (Space-timE RePresentation, Imaging and cellular dynamics of molecular COmplexes) team led by [Dr. Charles Kervrann](https://team.inria.fr/serpico/team-members/charles-kervrann-2/)
+  * Hosted and supervised by [Dr. Charles Kervrann](https://team.inria.fr/serpico/team-members/charles-kervrann-2/) who leads the Space-time imaging, artificial intelligence and computing for cellular and chemical biology [SAIRPICO](https://team.inria.fr/serpico/) team
     
 
 * 09 2021 - 08 2025: PhD project
