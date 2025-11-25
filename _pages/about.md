@@ -15,15 +15,14 @@ Currently
 
 2025-2027
 
-I am a Postdoctoral fellow at the [INRIA Centre Rennes](https://www.inria.fr/en/inria-centre-rennes-university), a site of [Inria](https://www.inria.fr/en), the French National Institute for Computer Science and Applied Mathematics. Within the [SERPICO](https://team.inria.fr/serpico/) (Space-timE RePresentation, Imaging and cellular dynamics of molecular COmplexes
-) team which develops mathematical and computational methods to study the spatiotemporal organisation and dynamics of molecular and cellular processes, my work focuses on developing image processing methods that bridge light microscopy and cryo-electron tomography.
+I am a Postdoctoral fellow at the [INRIA Centre Rennes](https://www.inria.fr/en/inria-centre-rennes-university), a site of [Inria](https://www.inria.fr/en), the French National Institute for Computer Science and Applied Mathematics. Within the [SAIRPICO](https://team.inria.fr/serpico/) (Space-time imaging, artificial intelligence and computing for cellular and chemical biology) team led by [Dr. Charles Kervrann](https://team.inria.fr/serpico/team-members/charles-kervrann-2/) which develops mathematical and computational methods to study the spatiotemporal organisation and dynamics of molecular and cellular processes, my work focuses on developing image processing methods that bridge light microscopy and cryo-electron tomography.
 
 Previously
 ------
 
 2021-2025
 
-I carried out my PhD at the [Physical Chemistry Curie Lab](https://institut-curie.org/unit/umr168), an interdiscipinary research unit of [Institut Curie](https://curie.fr/) that uses physics to understand living matter. While [my team](https://institut-curie.org/team/levy) specialises in molecular microscopy of membranes by means of in vitro reconstitution and cryo-electron microscopy, [my project](https://copper-antoinette-68.tiiny.site) was focused on the development and application of image processing tools for characterising membrane morphologies and resolving membrane protein structures from cryo-electron tomography data. 
+I carried out my PhD supervised by [Dr. Daniel Lévy](https://curie.fr/personne/daniel-levy) and [Dr. Manuela Dezi](https://institut-curie.org/person/manuela-dezi) at the [Physical Chemistry Curie Lab](https://institut-curie.org/unit/umr168), an interdiscipinary research unit of [Institut Curie](https://curie.fr/) that uses physics to understand living matter. While [my team](https://institut-curie.org/team/levy) specialises in molecular microscopy of membranes by means of in vitro reconstitution and cryo-electron microscopy, [my project](https://copper-antoinette-68.tiiny.site) was focused on the development and application of image processing methods for characterising membrane morphologies and resolving membrane protein structures from cryo-electron tomography data. 
 
 2018-2021
 
