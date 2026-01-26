@@ -13,7 +13,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Cyan Ching"
 title_separator          : "-"
 name                     : &name "Cyan Ching"
 description              : &description "Postdoctoral researcher"
