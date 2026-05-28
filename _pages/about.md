@@ -44,7 +44,7 @@ Hobbies
 
 As a child, I practised gymnastics, learnt to play the piano, won awards in art and creative writing competitions. As a teen, my interests completely shifted to sciences. Instead, I won awards in Olympiad maths, innovative physics, and academic debate competitions. 
 
-Nowadays, since my work happens to be my major hobby, I am taking it easy. I enjoy going around on my kickscooter, taking care of my pet lizard and his live food, struggling to play the majestic [otamatone](https://www.youtube.com/watch?v=_I7nCZVky40) well (one day), doing [amateur landscape photography](https://www.instagram.com/cyansingjikching/?hl=en) when I travel and/or hike, going urban exploring, bouldering, and playing [DnD or games alike](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons) with friends, I dungeon master. 
+Nowadays, since my work happens to be my major hobby, I am open to scientific discussion/collaboration in my free time, and I am fascinated by a broad range of subjects. Otherwise, I enjoy going around on my kickscooter, taking care of my pet lizard and his live food, struggling to play the majestic [otamatone](https://www.youtube.com/watch?v=_I7nCZVky40) well (one day), doing [amateur landscape photography](https://www.instagram.com/cyansingjikching/?hl=en) when I travel and/or hike. 
 
 Contact
 ------
