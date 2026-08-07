@@ -15,7 +15,7 @@ Currently
 
 2025-2027
 
-I am a Postdoctoral fellow at the [INRIA Centre Rennes](https://www.inria.fr/en/inria-centre-rennes-university), a site of [Inria](https://www.inria.fr/en), the French National Institute for Computer Science and Applied Mathematics. Within the [SAIRPICO](https://team.inria.fr/serpico/) (Space-time imaging, artificial intelligence and computing for cellular and chemical biology) team led by [Dr. Charles Kervrann](https://team.inria.fr/serpico/team-members/charles-kervrann-2/) which develops mathematical and computational methods to study the spatiotemporal organisation and dynamics of molecular and cellular processes, my work focuses on developing image processing methods that bridge light microscopy and cryo-electron tomography.
+I am a Postdoctoral fellow at the [INRIA Centre Rennes](https://www.inria.fr/en/inria-centre-rennes-university), a site of [Inria](https://www.inria.fr/en), the French National Institute for Computer Science and Applied Mathematics. Within the [SAIRPICO](https://team.inria.fr/serpico/) (Space-time imaging, artificial intelligence and computing for cellular and chemical biology) team led by [Dr. Charles Kervrann](https://team.inria.fr/serpico/team-members/charles-kervrann-2/) which develops mathematical and computational methods to study the spatiotemporal organisation and dynamics of molecular and cellular processes, my work focuses on developing geometry and image processing methods that bridge light microscopy and cryo-electron tomography.
 
 Previously
 ------
@@ -37,7 +37,7 @@ Future
 
 2027-?
 
-I intend to pursue, ideally, an assistant professorship or another postdoctoral position following the completion of my first postdoctoral contract. I plan to continue working in method development for scientific image and signal processing. I am currently focusing on point cloud and surface related geometry processing while working with explainable machine/deep learning on the side. I am not actively seeking industrial positions, but I would be glad to support NGOs, think tanks, startups and companies that make positive environmental and social impacts.
+I intend to pursue, ideally, an assistant professorship or another postdoctoral position following the completion of my first postdoctoral contract. I plan to continue working in method development for scientific image and signal processing. I am currently focusing on geometry processing while working with explainable machine/deep learning on the side. I am not actively seeking industrial positions, but I would be glad to support NGOs, think tanks, startups and companies that make positive environmental and social impacts.
 
 Hobbies
 ------
