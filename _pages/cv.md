@@ -21,7 +21,7 @@ Focused in Bioinformatics and Computational Biology.
 
 * PhD degree in Bioinformatics and Systems Biology awarded by [PSL University](https://psl.eu/en), with the speciality in Informatics (Informatique), the 4th of June, 2025.
 
-Project focused on the development and application of image-processing workflows for characterising membrane morphologies and resolving membrane protein molecular structures from cryo-electron tomography data.
+Project focused on the development and application of image-processing methods and workflows for characterising membrane morphologies and resolving membrane protein molecular structures from cryo-electron tomography data.
 
 Funded by the [EuReCa international PhD programme](https://training.institut-curie.org/eureca) supported by the [European Union’s Horizon 2020 research and innovation](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en) programme, [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/) fellow. 
 
