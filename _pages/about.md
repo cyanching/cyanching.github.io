@@ -37,7 +37,7 @@ Future
 
 2027-?
 
-I intend to pursue, ideally, an assistant professorship or another postdoctoral position following the completion of my first postdoctoral contract. I plan to continue working in method development for scientific image and signal processing. I am currently focusing on geometry processing while working with explainable machine/deep learning on the side. I am not actively seeking industrial positions, but I would be glad to support NGOs, think tanks, startups and companies that make positive environmental and social impacts.
+I intend to pursue, ideally, a permanent researcher position, an assistant professorship or another postdoctoral position following the completion of my first postdoctoral contract. I plan to continue working in method development for scientific image and signal processing. I am currently focusing on geometry processing while working with explainable machine/deep learning on the side. I am not actively seeking industrial positions, but I would be glad to support NGOs, think tanks, startups and companies that make positive environmental and social impacts.
 
 Hobbies
 ------
