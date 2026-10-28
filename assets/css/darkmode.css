@@ -80,56 +80,60 @@ html[data-theme="dark"] #theme-toggle {
   border-color: #555;
 }
 
-html[data-theme="dark"] .author__urls-wrapper .btn,
-html[data-theme="dark"] .author__urls-wrapper button {
+html[data-theme="dark"] .author__urls-wrapper button,
+html[data-theme="dark"] .author__urls-wrapper .btn {
   background: #2c3034 !important;
   color: #eceef0 !important;
-  border: 1px solid #555 !important;
+  border: none !important;
+  box-shadow: none !important;
 }
 
 html[data-theme="dark"] .author__urls {
-  background: #23272a !important;
-  border: 1px solid #444 !important;
+  background: #16181a !important;
+  border: none !important;
+  box-shadow: none !important;
 }
 html[data-theme="dark"] .author__urls:before,
 html[data-theme="dark"] .author__urls:after {
-  border-bottom-color: #23272a !important; 
+  display: none !important;
+}
+html[data-theme="dark"] .author__urls li,
+html[data-theme="dark"] .author__urls a {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
 }
 
 html[data-theme="dark"] .author__urls a,
-html[data-theme="dark"] .author__urls li,
-html[data-theme="dark"] .author__urls i,
-html[data-theme="dark"] .author__urls svg,
-html[data-theme="dark"] .author__urls svg path {
+html[data-theme="dark"] .author__urls a *,
+html[data-theme="dark"] .page__footer a,
+html[data-theme="dark"] .page__footer a *,
+html[data-theme="dark"] .page__footer .btn,
+html[data-theme="dark"] a[href*="feed.xml"],
+html[data-theme="dark"] a[href*="feed.xml"] * {
   color: #eceef0 !important;
+  -webkit-text-fill-color: #eceef0 !important;
   fill: #eceef0 !important;
+  opacity: 1 !important;
 }
 
-html[data-theme="dark"] .page__footer-follow,
-html[data-theme="dark"] .page__footer-follow li,
-html[data-theme="dark"] .page__footer-follow strong,
-html[data-theme="dark"] .page__footer-follow a,
-html[data-theme="dark"] .page__footer-follow i,
-html[data-theme="dark"] .page__footer-follow svg,
-html[data-theme="dark"] .page__footer-follow svg path {
-  color: #eceef0 !important;
-  fill: #eceef0 !important;
+html[data-theme="dark"] .page__footer .btn {
+  background: transparent !important;
+  border: 1px solid #555 !important;
 }
 
-html[data-theme="dark"] .page__footer-follow .fa-rss,
-html[data-theme="dark"] .page__footer-follow .fa-rss-square,
-html[data-theme="dark"] .page__footer-follow .fa-square-rss,
-html[data-theme="dark"] .page__footer-follow [data-icon="rss"],
-html[data-theme="dark"] .page__footer-follow [data-icon="square-rss"],
-html[data-theme="dark"] .page__footer-follow [data-icon="rss"] path,
-html[data-theme="dark"] .page__footer-follow [data-icon="square-rss"] path {
+html[data-theme="dark"] .page__footer .fa-rss,
+html[data-theme="dark"] .page__footer .fa-rss-square,
+html[data-theme="dark"] .page__footer .fa-square-rss,
+html[data-theme="dark"] .page__footer [data-icon="rss"],
+html[data-theme="dark"] .page__footer [data-icon="square-rss"],
+html[data-theme="dark"] .page__footer [data-icon="rss"] path,
+html[data-theme="dark"] .page__footer [data-icon="square-rss"] path {
   color: #fa9b39 !important;
   fill: #fa9b39 !important;
 }
 
 html[data-theme="dark"] .author__urls a:hover,
-html[data-theme="dark"] .page__footer-follow a:hover {
+html[data-theme="dark"] .page__footer a:hover {
   color: #6cc4dc !important;
 }
-
-html[data-theme="dark"] img { filter: brightness(0.9); }
