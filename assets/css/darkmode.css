@@ -1,0 +1,84 @@
+/* ---------- Toggle button ---------- */
+#theme-toggle {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 1000;
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 50%;
+  border: 1px solid rgba(128, 128, 128, 0.4);
+  background: #fff;
+  font-size: 1.25rem;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* ---------- Dark theme ---------- */
+html[data-theme="dark"] { color-scheme: dark; }
+
+html[data-theme="dark"] body,
+html[data-theme="dark"] .masthead,
+html[data-theme="dark"] .greedy-nav,
+html[data-theme="dark"] .greedy-nav .hidden-links,
+html[data-theme="dark"] .page__footer,
+html[data-theme="dark"] .author__urls {
+  background: #16181a;
+  color: #d7dadd;
+}
+
+html[data-theme="dark"] .page__footer { border-top-color: #333; }
+html[data-theme="dark"] .masthead { border-bottom-color: #333; }
+
+html[data-theme="dark"] h1, html[data-theme="dark"] h2,
+html[data-theme="dark"] h3, html[data-theme="dark"] h4,
+html[data-theme="dark"] h5, html[data-theme="dark"] h6,
+html[data-theme="dark"] .page__title,
+html[data-theme="dark"] .archive__item-title,
+html[data-theme="dark"] .author__name,
+html[data-theme="dark"] .greedy-nav a,
+html[data-theme="dark"] .page__meta,
+html[data-theme="dark"] .page__footer-copyright {
+  color: #eceef0;
+}
+
+html[data-theme="dark"] a { color: #6cc4dc; }
+html[data-theme="dark"] a:hover { color: #9adbee; }
+
+html[data-theme="dark"] .greedy-nav button,
+html[data-theme="dark"] .author__urls-wrapper button {
+  background: #23272a;
+  color: #d7dadd;
+}
+
+html[data-theme="dark"] hr,
+html[data-theme="dark"] table,
+html[data-theme="dark"] th,
+html[data-theme="dark"] td { border-color: #333; }
+
+html[data-theme="dark"] th { background: #23272a; }
+html[data-theme="dark"] blockquote { color: #aab0b5; border-left-color: #444; }
+
+html[data-theme="dark"] pre,
+html[data-theme="dark"] code,
+html[data-theme="dark"] .highlight,
+html[data-theme="dark"] .notice {
+  background: #23272a;
+  color: #d7dadd;
+}
+
+html[data-theme="dark"] input,
+html[data-theme="dark"] textarea {
+  background: #23272a;
+  color: #d7dadd;
+  border-color: #444;
+}
+
+html[data-theme="dark"] #theme-toggle {
+  background: #23272a;
+  border-color: #555;
+}
+
+/* Soften images slightly so they don't glare */
+html[data-theme="dark"] img { filter: brightness(0.9); }
