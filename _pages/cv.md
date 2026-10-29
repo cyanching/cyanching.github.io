@@ -19,7 +19,7 @@ Science major, completed Cognitive Neuroscience, Chemistry, Molecular Cell Biolo
 
 Focused in Bioinformatics and Computational Biology.
 
-* PhD degree in Bioinformatics and Systems Biology awarded by [PSL University](https://psl.eu/en), with the speciality in Informatics (Informatique), the 4th of June, 2025.
+* PhD degree in Bioinformatics and Systems Biology awarded by [PSL University](https://psl.eu/en), with the speciality in Computer Science (Informatique), the 4th of June, 2025.
 
 Project focused on the development and application of image-processing methods and workflows for characterising membrane morphologies and resolving membrane protein molecular structures from cryo-electron tomography data.
 
@@ -40,7 +40,7 @@ Research experience
   * The [Physical Chemistry Curie Lab](https://institut-curie.org/unit/umr168) (UMR168), [Institut Curie](https://institut-curie.org/)
   * The development and application of image-processing workflows for characterising membrane morphologies and resolving membrane protein molecular structures from cryo-electron tomography data.
   * Thesis title: Automated Image Processing of Membranes and Membrane Proteins in Cryo-Electron Tomography
-  * Speciality: Informatics
+  * Speciality: Informatique
   * Hosted by the [Molecular Microscopy of Membranes](https://institut-curie.org/team/levy) team led by Dr. Daniel Lévy
   * Supervised by [Dr. Daniel Lévy](https://institut-curie.org/personne/daniel-levy) & [Dr. Manuela Dezi](https://institut-curie.org/personne/manuela-dezi)
   * Thesis committee members: [Prof. Simon Anders](https://www.zmbh.uni-heidelberg.de/Anders/), [Dr. Mickael Cohen](http://www.ibpc.fr/en/members-829.htm), & [Dr. Slavica Jonic](https://scai.sorbonne-universite.fr/public/profiles/view/2c3baf02ede0fc8c6be1/67)
